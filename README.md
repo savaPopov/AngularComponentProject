@@ -1,0 +1,2 @@
+# AngularComponentProject
+Softuni Angular Project
